@@ -1,4 +1,4 @@
-# concept 1
+## concept 1
 
 le concept 1 est fils du [concept2]
 le concept 1 est fils du [concept4]

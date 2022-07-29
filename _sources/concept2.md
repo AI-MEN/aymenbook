@@ -1,4 +1,4 @@
-# concept 2
+## concept 2
 
 le concept 2 est fils du [concept3]
 
